@@ -1,0 +1,19 @@
+pywinauto == 0.6.7
+pywin32
+
+pandas
+
+#pykafka
+pymongo
+pymysql
+
+pyodbc
+
+
+
+
+
+#azure-storage >= 0.34.3
+#azure-cosmosdb-table
+
+
